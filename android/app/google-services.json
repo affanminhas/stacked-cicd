@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1011885395453",
+    "project_id": "stacked-explained",
+    "storage_bucket": "stacked-explained.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011885395453:android:72c7b1787b0de4b6d01d94",
+        "android_client_info": {
+          "package_name": "com.example.stacked_explain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011885395453-hrk6a9ls10ll03mshfh6c82famfn82bi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbJAGGl2YgI0ZW5CWH8RMRpfaqJ0--AOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011885395453-hrk6a9ls10ll03mshfh6c82famfn82bi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1011885395453-57egpgj3tp2s7ausln8vusdsqej00r1n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.stackedExplain"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
